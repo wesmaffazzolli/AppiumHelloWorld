@@ -19,7 +19,8 @@ public class base {
 		
 		// TODO Auto-generated method stub
 		File f = new File("src");
-		File fs = new File(f, "ApiDemos-debug.apk");
+		//File fs = new File(f, "ApiDemos-debug.apk");
+		File fs = new File(f, "senff.apk");
 		
 		
 		//Appium Coded
